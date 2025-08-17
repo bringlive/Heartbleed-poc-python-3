@@ -38,7 +38,7 @@ The data are stored in the file `òut.txt`.
 You must have python 3
 
 ```
-python2 heartbleed-exploit.py www.cloudflarechallenge.com
+python3 heartbleed-exploit.py www.cloudflarechallenge.com
 ```
 
 Then you will see somehting like this :
