@@ -35,7 +35,7 @@ The data are stored in the file `òut.txt`.
 
 ## Run it !
 
-You must have python `2.7.*` installed on your computer (not tested on python 3)
+You must have python 3
 
 ```
 python2 heartbleed-exploit.py www.cloudflarechallenge.com
